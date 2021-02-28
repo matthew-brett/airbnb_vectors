@@ -1,0 +1,3 @@
+*.Rmd
+!*_template.Rmd
+*.html
